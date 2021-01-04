@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Find the treasure in the dungeon.
  *
  * @author (Kai.W)
- * @version (1.0)
+ * @version (2.0)
  */
 public class AdventureGAME
 {
